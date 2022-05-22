@@ -1,3 +1,4 @@
+# 2022 edit
 # This script will generate a table of the top 10 Cryptocurrencies with real-time data metrics from the CMC API
 # !/usr/bin/env python3
 """Author: James Vinciguerra"""
